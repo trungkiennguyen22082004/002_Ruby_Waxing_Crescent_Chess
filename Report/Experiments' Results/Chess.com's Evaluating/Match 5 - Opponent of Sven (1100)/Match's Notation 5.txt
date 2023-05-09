@@ -1,0 +1,18 @@
+1. d4 Na6
+2. e4 Rb8
+3. Nf3 Nb4
+4. Bd2 Ra8
+5. Bxb4 Nf6
+6. e5 Nd5
+7. Bd3 Nxb4
+8. Qd2 Rb8
+9. Qxb4 a6
+10. O-O Ra8
+11. Nbd2 b6
+12. h3 Bb7
+13. Rfd1 Rg8
+14. Qc4 Bxf3
+15. Nxf3 c6
+16. Ng5 Ra7
+17. Qxf7#
+1-0
