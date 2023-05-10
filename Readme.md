@@ -1,3 +1,5 @@
+# Waxing Crescent Chess
+
 Hi, my name is Trung Kien Nguyen (MOON) !!!
 
 Just run the Waxing_Crescent.rb file to run the program, the other files are sub-files only
