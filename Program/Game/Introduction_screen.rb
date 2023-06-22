@@ -6,7 +6,7 @@ class Chess < Gosu::Window
         @image_swinburne_logo = Gosu::Image.new('Media/Image_Swinburne_logo.png')
         @image_moon_logo = Gosu::Image.new('Media/Image_Moon_Logo.png')
 
-        @sound_intro = Gosu::Sample.new('Media/Sound_Linux_Startup.wav')
+        @sound_intro = Gosu::Sample.new('Media/Sound_Doctor_Strange_2_trailer_Intro.wav')
 
         @x_1 = 610
         @y_1 = 240
